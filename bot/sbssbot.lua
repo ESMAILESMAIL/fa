@@ -256,14 +256,14 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {108800687},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @Mr_Ah_S
+    @hackertanha
     
     Special Thanks To:
     Mehr Pouya
@@ -271,10 +271,10 @@ function create_config( )
     IM/-\N
     Creed Is Dead
     
-    Powered By @Sbss_Team
+    Powered By @hackertanha
     
     #Open Source
-    https://github.com/SbssTeam/Sbss
+    https://github.com/ESMAILESMAIL/fa.git
 ]],
     help_text_realm = [[
 See Patterns In Github
